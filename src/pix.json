@@ -1,62 +1,62 @@
 [
   {
     "id": 1,
-    "image": "/images/Arya.jpg",
+    "image": "https://rmoj.github.io/GOTReact/images/Arya.jpg",
     "selected": false
   },
   {
     "id": 2,
-    "image": "/images/Brandon.png",
+    "image": "https://rmoj.github.io/GOTReact/images/Brandon.png",
     "selected": false
   },
   {
     "id": 3,
-    "image": "/images/Cersei.png",
+    "image": "https://rmoj.github.io/GOTReact/images/Cersei.png",
     "selected": false
   },
   {
     "id": 4,
-    "image": "/images/Daenerys.jpg",
+    "image": "https://rmoj.github.io/GOTReact/images/Daenerys.jpg",
     "selected": false
   },
   {
     "id": 5,
-    "image": "/images/Davos.png",
+    "image": "https://rmoj.github.io/GOTReact/images/Davos.png",
     "selected": false
   },
   {
     "id": 6,
-    "image": "/images/Jaime.jpg",
+    "image": "https://rmoj.github.io/GOTReact/images/Jaime.jpg",
     "selected": false
   },
   {
     "id": 7,
-    "image": "/images/JonSnow.png",
+    "image": "https://rmoj.github.io/GOTReact/images/JonSnow.png",
     "selected": false
   },
   {
     "id": 8,
-    "image": "/images/Jorah.png",
+    "image": "https://rmoj.github.io/GOTReact/images/Jorah.png",
     "selected": false
   },
   {
     "id": 9,
-    "image": "/images/Sam.jpg",
+    "image": "https://rmoj.github.io/GOTReact/images/Sam.jpg",
     "selected": false
   },
   {
     "id": 10,
-    "image": "/images/Sansa.jpg",
+    "image": "https://rmoj.github.io/GOTReact/images/Sansa.jpg",
     "selected": false
   },
   {
     "id": 11,
-    "image": "/images/Tyrion.jpg",
+    "image": "https://rmoj.github.io/GOTReact/images/Tyrion.jpg",
     "selected": false
   },
   {
     "id": 12,
-    "image": "/images/Varys.png",
+    "image": "https://rmoj.github.io/GOTReact/images/Varys.png",
     "selected": false
   }
 ]
