@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "/images/Arya.jpg",
+    "selected": false
+  },
+  {
+    "id": 2,
+    "image": "/images/Brandon.png",
+    "selected": false
+  },
+  {
+    "id": 3,
+    "image": "/images/Cersei.png",
+    "selected": false
+  },
+  {
+    "id": 4,
+    "image": "/images/Daenerys.jpg",
+    "selected": false
+  },
+  {
+    "id": 5,
+    "image": "/images/Davos.png",
+    "selected": false
+  },
+  {
+    "id": 6,
+    "image": "/images/Jaime.jpg",
+    "selected": false
+  },
+  {
+    "id": 7,
+    "image": "/images/JonSnow.png",
+    "selected": false
+  },
+  {
+    "id": 8,
+    "image": "/images/Jorah.png",
+    "selected": false
+  },
+  {
+    "id": 9,
+    "image": "/images/Sam.jpg",
+    "selected": false
+  },
+  {
+    "id": 10,
+    "image": "/images/Sansa.jpg",
+    "selected": false
+  },
+  {
+    "id": 11,
+    "image": "/images/Tyrion.jpg",
+    "selected": false
+  },
+  {
+    "id": 12,
+    "image": "/images/Varys.png",
+    "selected": false
+  }
+]
